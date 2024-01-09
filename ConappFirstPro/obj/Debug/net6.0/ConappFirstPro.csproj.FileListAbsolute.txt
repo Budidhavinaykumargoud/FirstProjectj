@@ -1,0 +1,15 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\bin\Debug\net6.0\ConappFirstPro.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\bin\Debug\net6.0\ConappFirstPro.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\bin\Debug\net6.0\ConappFirstPro.runtimeconfig.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\bin\Debug\net6.0\ConappFirstPro.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\bin\Debug\net6.0\ConappFirstPro.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.sourcelink.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\refint\ConappFirstPro.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ConappFirstPro.genruntimeconfig.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConappFirstPro\ConappFirstPro\obj\Debug\net6.0\ref\ConappFirstPro.dll
